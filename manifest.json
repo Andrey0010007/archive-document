@@ -1,0 +1,124 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://Andrey0010007.github.io/archive-document/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "ГАРФ 5325 9 223",
+  "sequences": [
+    {
+      "@id": "https://Andrey0010007.github.io/archive-document/manifest.json/sequence/normal",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://Andrey0010007.github.io/archive-document/manifest.json/canvas/1",
+          "@type": "sc:Canvas",
+          "label": "Page 1",
+          "width": 3180,
+          "height": 5323,
+          "images": [
+            {
+              "@id": "https://Andrey0010007.github.io/archive-document/manifest.json/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://Andrey0010007.github.io/archive-document/ГАРФ_5325_9_223_30_25.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3180,
+                "height": 5323
+              },
+              "on": "https://Andrey0010007.github.io/archive-document/manifest.json/canvas/1"
+            }
+          ]
+        },
+        {
+          "@id": "https://Andrey0010007.github.io/archive-document/manifest.json/canvas/2",
+          "@type": "sc:Canvas",
+          "label": "Page 2",
+          "width": 3042,
+          "height": 4968,
+          "images": [
+            {
+              "@id": "https://Andrey0010007.github.io/archive-document/manifest.json/annotation/2",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://Andrey0010007.github.io/archive-document/ГАРФ_5325_9_223_30_26.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3042,
+                "height": 4968
+              },
+              "on": "https://Andrey0010007.github.io/archive-document/manifest.json/canvas/2"
+            }
+          ]
+        },
+        {
+          "@id": "https://Andrey0010007.github.io/archive-document/manifest.json/canvas/3",
+          "@type": "sc:Canvas",
+          "label": "Page 3",
+          "width": 3180,
+          "height": 5323,
+          "images": [
+            {
+              "@id": "https://Andrey0010007.github.io/archive-document/manifest.json/annotation/3",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://Andrey0010007.github.io/archive-document/ГАРФ_5325_9_223_30_29.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3180,
+                "height": 5323
+              },
+              "on": "https://Andrey0010007.github.io/archive-document/manifest.json/canvas/3"
+            }
+          ]
+        },
+        {
+          "@id": "https://Andrey0010007.github.io/archive-document/manifest.json/canvas/4",
+          "@type": "sc:Canvas",
+          "label": "Page 4",
+          "width": 3107,
+          "height": 5308,
+          "images": [
+            {
+              "@id": "https://Andrey0010007.github.io/archive-document/manifest.json/annotation/4",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://Andrey0010007.github.io/archive-document/ГАРФ_5325_9_223_30_30.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3107,
+                "height": 5308
+              },
+              "on": "https://Andrey0010007.github.io/archive-document/manifest.json/canvas/4"
+            }
+          ]
+        },
+        {
+          "@id": "https://Andrey0010007.github.io/archive-document/manifest.json/canvas/5",
+          "@type": "sc:Canvas",
+          "label": "Page 5",
+          "width": 3107,
+          "height": 5308,
+          "images": [
+            {
+              "@id": "https://Andrey0010007.github.io/archive-document/manifest.json/annotation/5",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://Andrey0010007.github.io/archive-document/ГАРФ_5325_9_30_27.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3107,
+                "height": 5308
+              },
+              "on": "https://Andrey0010007.github.io/archive-document/manifest.json/canvas/5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
